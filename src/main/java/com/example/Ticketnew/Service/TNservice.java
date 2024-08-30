@@ -44,7 +44,7 @@ public class TNservice {
 	public List<String> Lists(){
 		
 		List<String> theaters=new ArrayList<String>();
-		theaters.add("AGS,T.Nagar");
+//		theaters.add("AGS,T.Nagar");
 		theaters.add("PVR,Vadapalani");
 		
 		return theaters;
