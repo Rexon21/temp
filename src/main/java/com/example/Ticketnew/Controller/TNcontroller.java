@@ -21,7 +21,7 @@ import com.example.Ticketnew.Entity.*;
 
 
 @RestController
-@RequestMapping("/ticketnew")
+@RequestMapping("/showMovies")
 public class TNcontroller {
 	
 	@Autowired
